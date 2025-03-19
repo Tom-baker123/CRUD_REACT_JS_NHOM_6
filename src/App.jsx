@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <div className='px-3 py-5'>
+        <h2 className='text-5xl font-bold text-blue-950'>Nhóm 6 - Thứ 4 - Ca 1</h2>
         <DataTable/>
       </div>
     </>
